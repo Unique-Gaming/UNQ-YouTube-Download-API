@@ -214,20 +214,22 @@ Open an issue:
 
 ---
 
-## ⚠ Disclaimer
-
-This API does not host any video content. All links are fetched from third-party providers (SaveTube CDN).
-
-❗ For educational purposes only  
-❌ Do not use for piracy or commercial services  
-
-## License
-All rights reserved © 2025 UNQ
-
----
-
 ## 💬 Community
 
 👉 Join our Discord: https://discord.gg/jDXbTEw63z
 
 ---
+
+## ⚠️ Disclaimer
+
+This API **does not host** any video content. All streams are embedded from **third-party sources**.
+
+> ❗ This project is for **educational purposes only**.  
+> ❌ Do not use for commercial or illegal streaming platforms.
+
+![Disclaimer](https://giffiles.alphacoders.com/199/199423.gif)
+
+---
+
+## License
+All rights reserved © 2025 UNQ
