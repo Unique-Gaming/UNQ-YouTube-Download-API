@@ -233,3 +233,6 @@ This API **does not host** any video content. All streams are embedded from **th
 
 ## License
 All rights reserved © 2025 UNQ
+
+<p align="center" style="text-decoration: none;">Made by <a href="https://github.com/Unique-Gaming" tarGET="_blank">Anup 
+</a>😮‍💨</p>
