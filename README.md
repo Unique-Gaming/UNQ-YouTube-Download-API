@@ -177,8 +177,8 @@ Get downloadable url by type [ mp3 or video ] , key [ From api ] , quality [ For
 
 ## 📦 Installation
 
-git clone https://github.com/yourusername/unq-youtube-download-api.git  
-cd unq-youtube-download-api  
+git clone https://github.com/Unique-Gaming/UNQ-YouTube-Download-API  
+cd UNQ-YouTube-Download-API  
 npm install  
 
 Run locally:
