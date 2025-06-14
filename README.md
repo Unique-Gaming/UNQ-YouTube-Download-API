@@ -187,6 +187,8 @@ node index.js
 
 Or deploy to:
 - Vercel
+
+  [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Unique-Gaming/UNQ-YouTube-Download-API)
 - Railway
 - Heroku
 - Any Node-compatible server
