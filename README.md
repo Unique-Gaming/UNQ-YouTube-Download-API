@@ -149,7 +149,7 @@ Get downloadable url by type [ mp3 or video ] , key [ From api ] , quality [ For
 
 #### Example
 
-/api/download?type=video&quality=108&key=de576b95e661a7fc5a7fa7d6cf62856d196a552d
+/api/download?type=video&quality=128&key=de576b95e661a7fc5a7fa7d6cf62856d196a552d
 
 #### Sample Response
 ```
